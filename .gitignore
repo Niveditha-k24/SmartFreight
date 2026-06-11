@@ -1,4 +1,24 @@
+# Python cache files
 __pycache__/
 *.pyc
-venv/
+*.pyo
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Database file
+data/inventory.db
+
+# Trained ML model (large file)
+models/*.pkl
+
+# Environment files
+.env
+venv/
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+desktop.ini
