@@ -6,7 +6,7 @@ from pathlib import Path
 
 # 1. Configure the page
 st.set_page_config(
-    page_title="Freight Cost Predictor",
+    page_title="SmartFreight",
     page_icon="🚚",
     layout="centered"
 )
